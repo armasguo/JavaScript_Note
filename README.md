@@ -1,0 +1,1 @@
+my journey learning javascript.
